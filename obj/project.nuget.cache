@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjSGPlO34B+KxK4yfpx35AHqctLfdEZt0c69fdnSr0qwGnTr0fD0EAOK+MYXCgd7ToSanmxPlGRPdelKzc47VA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso Fundamentos NET\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.OpenApi. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
